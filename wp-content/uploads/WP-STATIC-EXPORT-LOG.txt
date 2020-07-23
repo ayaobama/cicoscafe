@@ -1,0 +1,492 @@
+2020-07-23 08:18:29
+PHP VERSION 7.3.12
+OS VERSION Windows NT DESKTOP-EMLSOOT 10.0 build 18362 (Windows 10) AMD64
+WP VERSION 5.4.2
+WP URL http://localhost/cicoscafe
+WP SITEURL http://localhost/cicoscafe
+WP HOME http://localhost/cicoscafe
+WP ADDRESS http://localhost/cicoscafe
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://ayaobama.github.io/cicoscafe/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.12
+Active plugins:
+static-html-output-plugin/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gd
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /page-d-exemple/
+Adding discovered URL: /category/non-classe/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /author/anthony-yaobamagmail-com/
+Adding discovered URL: /2020/07/
+SAVING / to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /page-d-exemple/
+Adding discovered URL: /category/non-classe/
+Adding discovered URL: /author/anthony-yaobamagmail-com/
+Adding discovered URL: /2020/07/
+SAVING /2020/07/23/bonjour-tout-le-monde/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/2020/07/23/bonjour-tout-le-monde/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /articles/page/1
+BAD RESPONSE STATUS (404): /articles/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/non-classe/
+BAD RESPONSE STATUS (404): /category/non-classe/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/non-classe/page/1
+BAD RESPONSE STATUS (404): /category/non-classe/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /cicoscafe/
+BAD RESPONSE STATUS (404): /cicoscafe/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /cicoscafe/2020/
+BAD RESPONSE STATUS (404): /cicoscafe/2020/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /cicoscafe/2020/07/
+BAD RESPONSE STATUS (404): /cicoscafe/2020/07/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /cicoscafe/2020/07/23/
+BAD RESPONSE STATUS (404): /cicoscafe/2020/07/23/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /cicoscafe/2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /page-d-exemple/
+Adding discovered URL: /category/non-classe/
+Adding discovered URL: /author/anthony-yaobamagmail-com/
+Adding discovered URL: /2020/07/
+SAVING /cicoscafe/2020/07/23/bonjour-tout-le-monde/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/cicoscafe/2020/07/23/bonjour-tout-le-monde/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /cicoscafe/page-d-exemple/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /page-d-exemple/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /page-d-exemple/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-admin/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /2020/07/
+Adding discovered URL: /category/non-classe/
+SAVING /cicoscafe/page-d-exemple/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/cicoscafe/page-d-exemple/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page-d-exemple/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /page-d-exemple/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /page-d-exemple/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-admin/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /2020/07/
+Adding discovered URL: /category/non-classe/
+SAVING /page-d-exemple/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/\/page-d-exemple/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+BAD RESPONSE STATUS (404): /sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\color-calculations.js
+SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\js/color-calculations.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-controls.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\js/customize-controls.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-preview.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\js/customize-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\js/customize.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\editor-script-block.js
+SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\index.js
+SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js
+SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\package-lock.json
+SAVING /wp-content/themes/twentytwenty\package-lock.json to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/package-lock.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\print.css
+SAVING /wp-content/themes/twentytwenty\print.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\screenshot.png
+SAVING /wp-content/themes/twentytwenty\screenshot.png to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/screenshot.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\style-rtl.css
+SAVING /wp-content/themes/twentytwenty\style-rtl.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/style-rtl.css
+Memory allocated by crawl script: 10240
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\style.css
+SAVING /wp-content/themes/twentytwenty\style.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /2020/07/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /page-d-exemple/
+Adding discovered URL: /category/non-classe/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /author/anthony-yaobamagmail-com/
+Adding discovered URL: /2020/07/
+SAVING /2020/07/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/2020/07/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/07/23/bonjour-tout-le-monde/feed/
+SAVING /2020/07/23/bonjour-tout-le-monde/feed/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/2020/07/23/bonjour-tout-le-monde/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /author/anthony-yaobamagmail-com/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /author/anthony-yaobamagmail-com/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /page-d-exemple/
+Adding discovered URL: /category/non-classe/
+Adding discovered URL: /2020/07/23/bonjour-tout-le-monde/
+Adding discovered URL: /author/anthony-yaobamagmail-com/
+Adding discovered URL: /2020/07/
+SAVING /author/anthony-yaobamagmail-com/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/author/anthony-yaobamagmail-com/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/\/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page-d-exemple/feed/
+SAVING /page-d-exemple/feed/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/page-d-exemple/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-admin/
+Adding discovered URL: /wp-includes/css/dashicons.min.css
+Adding discovered URL: /wp-includes/css/buttons.min.css
+Adding discovered URL: /wp-admin/css/forms.min.css
+Adding discovered URL: /wp-admin/css/l10n.min.css
+Adding discovered URL: /wp-admin/css/login.min.css
+Adding discovered URL: /
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-includes/js/zxcvbn-async.min.js
+Adding discovered URL: /wp-admin/js/password-strength-meter.min.js
+Adding discovered URL: /wp-includes/js/underscore.min.js
+Adding discovered URL: /wp-includes/js/wp-util.min.js
+Adding discovered URL: /wp-admin/js/user-profile.min.js
+SAVING /wp-admin/ to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/\/wp-admin/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/index.js
+SAVING /wp-content/themes/twentytwenty/assets/js/index.js to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/assets/js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty/print.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty/style.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-content/themes/twentytwenty/style.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Uploading C:\\xampp\\htdocs\\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/2020/07/23/bonjour-tout-le-monde/feed/index.html to C:\xampp\htdocs\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/2020/07/23/bonjour-tout-le-monde/feed/index.html in GitHub
+API response code 200
+API response body {"errors":[{"message":"Parse error on \"\\\"\" (error) at [3, 24]","locations":[{"line":3,"column":24}]}]}
+Creating C:\xampp\htdocs\cicoscafe/wp-content/uploads/wp-static-html-output-1595492309/2020/07/23/bonjour-tout-le-monde/feed/index.html in GitHub
+API response code 404
+API response body {"message":"Not Found","documentation_url":"https://developer.github.com/v3/repos/contents/#create-or-update-a-file"}
+BAD RESPONSE STATUS FROM API (404)
+Deployment: error encountered
+Exception: BAD RESPONSE STATUS FROM API (404) in C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\WP2Static\SitePublisher.php:2
+Stack trace:
+#0 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(14): WP2Static_SitePublisher->checkForValidResponses(404, Array)
+#1 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(2): WP2Static_GitHub->createFileInGitHub()
+#2 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(2): WP2Static_GitHub->upload_files()
+#3 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(14): WP2Static_GitHub->__construct()
+#4 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\WP2Static\Dispatcher.php(2): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\wp2static.php(17): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\cicoscafe\wp-settings.php(371): include_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\cicoscafe\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\cicoscafe\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\cicoscafe\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+BAD RESPONSE STATUS (404): 
+GITHUB EXPORT: error encountered
+Exception: GitHub API bad response status in C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php:2
+Stack trace:
+#0 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(2): WP2Static_GitHub->test_upload()
+#1 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\deployers\GitHub.php(14): WP2Static_GitHub->__construct()
+#2 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\plugin\WP2Static\Dispatcher.php(2): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\cicoscafe\wp-content\plugins\static-html-output-plugin\wp2static.php(17): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\cicoscafe\wp-settings.php(371): include_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cicoscafe\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\cicoscafe\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\cicoscafe\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
